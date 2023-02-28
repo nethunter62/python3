@@ -1,2 +1,2 @@
 # python3
-sayı_tahmin
+## Python ile basit bir sayı tahmin oyunu.
